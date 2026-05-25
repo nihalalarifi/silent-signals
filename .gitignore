@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model artifacts
+*.keras
+*.h5
+*.pkl
+best_model.keras
+
+# Data outputs
+outputs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
