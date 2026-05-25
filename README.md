@@ -1,4 +1,4 @@
-# 🧠 Silent Signals — Depression Prediction via Search Engine Behavior
+# Silent Signals — Depression Prediction via Search Engine Behavior
 
 > Deep learning models that predict depression case counts in Riyadh, Saudi Arabia, by analyzing Google Trends search data — offering a non-invasive, data-driven early warning system for mental health deterioration.
 
@@ -7,7 +7,7 @@ Supervised by Dr. Mai Alzamel | Second Semester 1446/1447
 
 ---
 
-## 💡 Why We Built This
+## Why We Built This
 
 Over 50% of major depressive disorder (MDD) cases go undiagnosed globally, often because people first turn to search engines — not doctors — when they feel distress. We asked: *what if we could read those signals?*
 
@@ -15,7 +15,7 @@ By correlating Google Trends search volumes for depression-related keywords (Dep
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Four deep learning models compared** — LSTM, BiLSTM, GRU, and Transformer, each trained and evaluated on two data sources (Google Web Search & YouTube Search)
 - **Anomaly detection** — identifies abnormal spikes in search behavior that may signal emerging mental health crises
