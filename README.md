@@ -25,7 +25,7 @@ By correlating Google Trends search volumes for depression-related keywords (Dep
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -40,7 +40,7 @@ By correlating Google Trends search volumes for depression-related keywords (Dep
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 silent-signals/
@@ -57,7 +57,7 @@ silent-signals/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ```bash
 # 1. Clone the repository
@@ -76,7 +76,7 @@ jupyter notebook
 
 ---
 
-## 📖 Usage
+## Usage
 
 Each notebook in `MODELS/` is self-contained and follows the same pipeline:
 
@@ -90,7 +90,7 @@ Each notebook in `MODELS/` is self-contained and follows the same pipeline:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Model | Test MSE | Test RMSE | Test MAE | Test sMAPE |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ Each notebook in `MODELS/` is self-contained and follows the same pipeline:
 
 ---
 
-## 🧠 Technical Challenge
+## Technical Challenge
 
 The hardest problem we faced was **anomaly detection in a small, noisy dataset.**
 
@@ -120,7 +120,7 @@ This revealed something clinically meaningful: search behavior predicts depressi
 
 ---
 
-## 📋 Dataset
+## Dataset
 
 - **Source:** Google Trends (via manual export) & Ministry of Health depression case records for Riyadh
 - **Time range:** January 2018 – September 2024 (81 months)
@@ -130,19 +130,15 @@ This revealed something clinically meaningful: search behavior predicts depressi
 
 ---
 
-## 👥 Authors
+## Authors
 
-| Name | Student ID |
-|---|---|
-| Nihal Alarifi | 441200967 |
-| Sara Alharbi | 442202335 |
-| Jumana bin Zaid | 443200778 |
+Nihal Alarifi, Sara Alharbi, Jumana bin Zaid 
 
 **Supervisor:** Dr. Mai Alzamel  
 College of Computer and Information Sciences — King Saud University
 
 ---
 
-## 📄 License
+## License
 
 MIT License — free to use, adapt, and build upon with attribution.
